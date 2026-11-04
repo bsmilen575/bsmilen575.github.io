@@ -16,7 +16,7 @@ The site will be served at https://bsmilen575.github.io/. Keep custom-domain con
 
 - About text: `index.html`
 - Shared appearance: `styles.css`
-- Project pages: `work/`
+- Selected projects: `other/`
 - Fiction and poems: `writing/`
 - Current research: `research/`
 
