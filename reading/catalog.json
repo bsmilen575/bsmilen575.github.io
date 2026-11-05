@@ -1,53 +1,67 @@
 {
   "ai": [
     {
-      "title": "Gödel, Escher, Bach: An Eternal Golden Braid",
-      "author": "Douglas R. Hofstadter",
-      "url": "https://www.hachettebookgroup.com/titles/douglas-r-hofstadter/godel-escher-bach/9780465026562/",
-      "kind": "book",
-      "detail": ""
-    },
-    {
-      "title": "Generative Agents: Interactive Simulacra of Human Behavior",
-      "author": "Joon Sung Park et al. · 2023",
-      "url": "https://arxiv.org/abs/2304.03442",
-      "kind": "paper",
-      "detail": ""
-    },
-    {
-      "title": "Attention Is All You Need",
-      "author": "Ashish Vaswani et al. · 2017",
-      "url": "https://arxiv.org/abs/1706.03762",
-      "kind": "paper",
-      "detail": ""
-    },
-    {
-      "title": "GlossoGen: Emergent Language in Complex Multi-Agent LLM Interactions",
-      "author": "Elias Stengel-Eskin et al. · 2026",
-      "url": "https://arxiv.org/abs/2609.01491",
-      "kind": "paper",
-      "detail": ""
-    },
-    {
       "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
       "author": "Randall Balestriero & Yann LeCun · 2026",
       "url": "https://arxiv.org/abs/2610.39302",
       "kind": "paper",
-      "detail": ""
+      "detail": "",
+      "published": "2026-10-29",
+      "date_basis": "publication"
     },
     {
       "title": "Neural Networks Are Already Clean",
       "author": "Nick Cammarata · Goodfire",
       "url": "https://already-clean.goodfire.com/",
       "kind": "essay",
-      "detail": ""
+      "detail": "",
+      "published": "2026-10-15",
+      "date_basis": "publication"
     },
     {
       "title": "Transformer Circuits Thread",
       "author": "Anthropic",
       "url": "https://transformer-circuits.pub/",
       "kind": "research index",
-      "detail": ""
+      "detail": "",
+      "published": "2026-10",
+      "date_basis": "latest index update"
+    },
+    {
+      "title": "GlossoGen: Emergent Language in Complex Multi-Agent LLM Interactions",
+      "author": "Elias Stengel-Eskin et al. · 2026",
+      "url": "https://arxiv.org/abs/2609.01491",
+      "kind": "paper",
+      "detail": "",
+      "published": "2026-09-01",
+      "date_basis": "publication"
+    },
+    {
+      "title": "Generative Agents: Interactive Simulacra of Human Behavior",
+      "author": "Joon Sung Park et al. · 2023",
+      "url": "https://arxiv.org/abs/2304.03442",
+      "kind": "paper",
+      "detail": "",
+      "published": "2023-04-07",
+      "date_basis": "publication"
+    },
+    {
+      "title": "Attention Is All You Need",
+      "author": "Ashish Vaswani et al. · 2017",
+      "url": "https://arxiv.org/abs/1706.03762",
+      "kind": "paper",
+      "detail": "",
+      "published": "2017-06-12",
+      "date_basis": "publication"
+    },
+    {
+      "title": "Gödel, Escher, Bach: An Eternal Golden Braid",
+      "author": "Douglas R. Hofstadter",
+      "url": "https://www.hachettebookgroup.com/titles/douglas-r-hofstadter/godel-escher-bach/9780465026562/",
+      "kind": "book",
+      "detail": "",
+      "published": "1979",
+      "date_basis": "first English-language publication"
     }
   ],
   "hardware": [
@@ -56,44 +70,56 @@
       "author": "Ian Seet, Jonas Bozenhard & Simon Osterman · 2026",
       "url": "https://arxiv.org/abs/2606.07998v3",
       "kind": "paper",
-      "detail": ""
+      "detail": "",
+      "published": "2026-06-06",
+      "date_basis": "publication"
     },
     {
       "title": "Characterizing Memristive Nanowire Network Models via a Unified Computational Framework",
       "author": "Marcus Kasdorf et al. · 2025",
       "url": "https://arxiv.org/abs/2512.12005",
       "kind": "paper",
-      "detail": ""
-    },
-    {
-      "title": "Online dynamical learning and sequence memory with neuromorphic nanowire networks",
-      "author": "Ruomin Zhu et al. · 2023",
-      "url": "https://www.nature.com/articles/s41467-023-42470-5",
-      "kind": "paper",
-      "detail": ""
+      "detail": "",
+      "published": "2025-12-12",
+      "date_basis": "publication"
     },
     {
       "title": "Neuromorphic computing: the future of AI",
       "author": "Los Alamos National Laboratory · 1663 · 2025",
       "url": "https://www.lanl.gov/media/publications/1663/1269-neuromorphic-computing",
       "kind": "article",
-      "detail": ""
+      "detail": "",
+      "published": "2025-03-31",
+      "date_basis": "publication"
+    },
+    {
+      "title": "Online dynamical learning and sequence memory with neuromorphic nanowire networks",
+      "author": "Ruomin Zhu et al. · 2023",
+      "url": "https://www.nature.com/articles/s41467-023-42470-5",
+      "kind": "paper",
+      "detail": "",
+      "published": "2023",
+      "date_basis": "publication"
     }
   ],
   "cognitive-science": [
-    {
-      "title": "Cognitive neuroscience perspective on memory: overview and summary",
-      "author": "Sruthi Sridhar, Abdulrahman Khamaj & Manish Kumar Asthana · 2023",
-      "url": "https://doi.org/10.3389/fnhum.2023.1217093",
-      "kind": "paper",
-      "detail": ""
-    },
     {
       "title": "New strategies for the cognitive science of dreaming",
       "author": "Remington Mallett et al. · 2024",
       "url": "https://www.sciencedirect.com/science/article/pii/S136466132400264X",
       "kind": "paper",
-      "detail": ""
+      "detail": "",
+      "published": "2024-12",
+      "date_basis": "publication"
+    },
+    {
+      "title": "Cognitive neuroscience perspective on memory: overview and summary",
+      "author": "Sruthi Sridhar, Abdulrahman Khamaj & Manish Kumar Asthana · 2023",
+      "url": "https://doi.org/10.3389/fnhum.2023.1217093",
+      "kind": "paper",
+      "detail": "",
+      "published": "2023-07-26",
+      "date_basis": "publication"
     }
   ],
   "sociology": [
@@ -102,95 +128,121 @@
       "author": "Arie Kruglanski & Sophia Moskalenko · Speaking of Psychology, episode 330",
       "url": "https://www.apa.org/news/podcasts/speaking-of-psychology/extremism",
       "kind": "podcast + transcript",
-      "detail": ""
+      "detail": "",
+      "published": null,
+      "date_basis": "publication"
     }
   ],
   "information-theory": [
-    {
-      "title": "A Mathematical Theory of Communication",
-      "author": "Claude E. Shannon · 1948",
-      "url": "https://www.princeton.edu/~wbialek/rome/refs/shannon_48.pdf",
-      "kind": "paper",
-      "detail": ""
-    },
     {
       "title": "Prediction and Entropy of Printed English",
       "author": "Claude E. Shannon · 1951",
       "url": "https://www.nokia.com/bell-labs/publications-and-media/publications/prediction-and-entropy-of-printed-english/",
       "kind": "paper",
-      "detail": ""
+      "detail": "",
+      "published": "1951",
+      "date_basis": "publication"
+    },
+    {
+      "title": "A Mathematical Theory of Communication",
+      "author": "Claude E. Shannon · 1948",
+      "url": "https://www.princeton.edu/~wbialek/rome/refs/shannon_48.pdf",
+      "kind": "paper",
+      "detail": "",
+      "published": "1948",
+      "date_basis": "publication"
     }
   ],
   "fiction": [
     {
-      "title": "1Q84",
-      "author": "Haruki Murakami",
-      "url": "https://www.penguinrandomhouse.com/books/118711/1q84-by-haruki-murakami/",
-      "kind": "book",
-      "detail": ""
-    },
-    {
-      "title": "The Wind-Up Bird Chronicle",
-      "author": "Haruki Murakami",
-      "url": "https://www.penguinrandomhouse.com/books/118727/the-wind-up-bird-chronicle-by-haruki-murakami/",
-      "kind": "book",
-      "detail": ""
-    },
-    {
-      "title": "Hard-Boiled Wonderland and the End of the World",
-      "author": "Haruki Murakami",
-      "url": "https://www.penguinrandomhouse.com/books/118717/hard-boiled-wonderland-and-the-end-of-the-world-by-haruki-murakami/",
-      "kind": "book",
-      "detail": ""
-    },
-    {
-      "title": "The Elephant Vanishes",
-      "author": "Haruki Murakami",
-      "url": "https://www.penguinrandomhouse.com/books/118726/the-elephant-vanishes-by-haruki-murakami/",
-      "kind": "book",
-      "detail": ""
-    },
-    {
-      "title": "Out of the Cradle Endlessly Rocking",
-      "author": "Walt Whitman",
-      "url": "https://www.poetryfoundation.org/poems/48858/out-of-the-cradle-endlessly-rocking",
-      "kind": "poem",
-      "detail": ""
-    },
-    {
-      "title": "The Three-Body Problem",
+      "title": "Death’s End",
       "author": "Cixin Liu",
-      "url": "https://us.macmillan.com/books/9781427251992/thethreebodyproblem/",
+      "url": "https://us.macmillan.com/books/9780765377104/deathsend/",
       "kind": "book",
-      "detail": ""
+      "detail": "",
+      "published": "2016",
+      "date_basis": "first English-language publication"
     },
     {
       "title": "The Dark Forest",
       "author": "Cixin Liu",
       "url": "https://us.macmillan.com/books/9780765386694/thedarkforest/",
       "kind": "book",
-      "detail": ""
+      "detail": "",
+      "published": "2015",
+      "date_basis": "first English-language publication"
     },
     {
-      "title": "Death’s End",
+      "title": "The Three-Body Problem",
       "author": "Cixin Liu",
-      "url": "https://us.macmillan.com/books/9780765377104/deathsend/",
+      "url": "https://us.macmillan.com/books/9781427251992/thethreebodyproblem/",
       "kind": "book",
-      "detail": ""
+      "detail": "",
+      "published": "2014",
+      "date_basis": "first English-language publication"
+    },
+    {
+      "title": "1Q84",
+      "author": "Haruki Murakami",
+      "url": "https://www.penguinrandomhouse.com/books/118711/1q84-by-haruki-murakami/",
+      "kind": "book",
+      "detail": "",
+      "published": "2011",
+      "date_basis": "first English-language publication"
+    },
+    {
+      "title": "The Wind-Up Bird Chronicle",
+      "author": "Haruki Murakami",
+      "url": "https://www.penguinrandomhouse.com/books/118727/the-wind-up-bird-chronicle-by-haruki-murakami/",
+      "kind": "book",
+      "detail": "",
+      "published": "1997",
+      "date_basis": "first English-language publication"
+    },
+    {
+      "title": "The Elephant Vanishes",
+      "author": "Haruki Murakami",
+      "url": "https://www.penguinrandomhouse.com/books/118726/the-elephant-vanishes-by-haruki-murakami/",
+      "kind": "book",
+      "detail": "",
+      "published": "1993",
+      "date_basis": "first English-language publication"
+    },
+    {
+      "title": "Hard-Boiled Wonderland and the End of the World",
+      "author": "Haruki Murakami",
+      "url": "https://www.penguinrandomhouse.com/books/118717/hard-boiled-wonderland-and-the-end-of-the-world-by-haruki-murakami/",
+      "kind": "book",
+      "detail": "",
+      "published": "1991",
+      "date_basis": "first English-language publication"
     },
     {
       "title": "The Satanic Verses",
       "author": "Salman Rushdie",
       "url": "https://www.penguinrandomhouse.com/books/323746/the-satanic-verses-by-salman-rushdie/",
       "kind": "book",
-      "detail": ""
+      "detail": "",
+      "published": "1988",
+      "date_basis": "first English-language publication"
     },
     {
       "title": "Contact",
       "author": "Carl Sagan",
       "url": "https://www.simonandschuster.net/books/Contact/Carl-Sagan/9781501197987",
       "kind": "book",
-      "detail": ""
+      "detail": "",
+      "published": "1985",
+      "date_basis": "first English-language publication"
+    },
+    {
+      "title": "Out of the Cradle Endlessly Rocking",
+      "author": "Walt Whitman",
+      "url": "https://www.poetryfoundation.org/poems/48858/out-of-the-cradle-endlessly-rocking",
+      "kind": "poem",
+      "detail": "",
+      "published": "1859",
+      "date_basis": "publication"
     }
   ]
 }
